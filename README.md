@@ -1,1 +1,2 @@
-#Git Test
+#wriiten by kang using git bash
+ 
